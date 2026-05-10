@@ -1,5 +1,4 @@
 # Ideological-Scaling-with-Presidential-Executive-Orders
-## Scaling Executive Orders Using Multiple Inverse Regression
 
 ## Overview
 Our research focuses on presidential executive orders and how the wording used is different between Democrats and Republicans. We are specifically interested in executive orders pertaining to racial issues to better understand whether there is a clear distinction in rhetoric around race between parties. To tackle this, we take a text as data approach, which allows us to quantify words and scale them according to their party indication. I use one of several possible approaches to accomplish this task with the coding language R.
